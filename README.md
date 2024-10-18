@@ -3,7 +3,7 @@
 <h2>Hey 👋, This is <a href="https://shivampatels.com">Shivam</a></h2>
 
 <ul>
-<li>💬 Ping me about <strong>React, Node, Python, Blockchain, and Cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>React, Angular, Vue.js, Node, Python, PHP, Blockchain, and Cloud stuff</strong>.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
