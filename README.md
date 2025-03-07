@@ -1,10 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=ShivamPatels)
 
-<h2>Hey 👋, This is <a href="https://shivampatels.com">Shivam</a></h2>
+<h2>Welcome to my page! 👋, This is <a href="https://shivampatels.com">Shivam</a></h2>
 
-<ul>
-<li>💬 Ping me about <strong>React, Angular, Vue.js, Node, Python, PHP, Blockchain, React Native, Flutter, iOS and Android App, and Cloud stuff</strong>.</li>
-</ul>
+Tech stacks I am using mostly are
+- Frontend : React.js, Angular, Vue
+- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C
+- Backend: Node, Java, PHP, Python, .NET, Ruby
+- CMS: Shopify, WordPress
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
