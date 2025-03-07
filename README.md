@@ -13,7 +13,7 @@
 <h2>🚀 More About Me:</h2>
 <ul>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/shivampatels?tab=repositories" target="_blank">[Github]</a></li>
-  <li>🎨 &nbsp; Designs that I made <a href="https://www.behance.net/shivampatels" target="_blank">[Behance] 👉</a></li>
+  <li>🎨 &nbsp; Designs that I made <a href="https://www.behance.net/shivampatels" target="_blank">[Behance]</a>👉</li>
   <li>💬 &nbsp; Ask me about anything tech related, I am happy to help;</li>
 </ul>
 <br />
