@@ -11,7 +11,7 @@
 </ul>
 
 <h2>🚀 More About Me:</h2>
-<div>
+<div style="display: flex; align-items: center;">
   <ul>
     <li>👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivampatels?tab=repositories)</li>
     <li>🎨 &nbsp; Designs that I made [Behance](https://www.behance.net/shivampatels) 👉</li>
