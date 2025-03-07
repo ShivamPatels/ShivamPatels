@@ -11,16 +11,17 @@
 </ul>
 
 <h2>🚀 More About Me:</h2>
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivampatels?tab=repositories)
-- 🎨 &nbsp; Designs that I made [Behance](https://www.behance.net/shivampatels) 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. 
+
+<ul>
+  <li>👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivampatels?tab=repositories)</li>
+  <li>🎨 &nbsp; Designs that I made [Behance](https://www.behance.net/shivampatels) 👉</li>
+  <li>💬 &nbsp; Ask me about anything tech related, I am happy to help;</li>
+</ul>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=ShivamPatels&column=8&theme=onedark"/>
-</div>
+
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamPatels&column=8&theme=onedark"/>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
