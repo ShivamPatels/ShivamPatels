@@ -16,7 +16,7 @@
   <li>🎨 &nbsp; Designs that I made [Behance](https://www.behance.net/shivampatels) 👉</li>
   <li>💬 &nbsp; Ask me about anything tech related, I am happy to help;</li>
 </ul>
-
+<br />
 
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ShivamPatels&column=8&theme=onedark"/>
@@ -50,7 +50,6 @@
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
-<br />
 <h3>🧰 Frameworks and libraries</h3>
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -67,7 +66,6 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
-<br />
 <h3>🗄️ Databases and cloud hosting</h3>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -80,7 +78,6 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
-<br />
 <h3>👨‍ Dev Tools</h3>
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white"></a>
@@ -89,14 +86,13 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
-<br />
 <h3>☁ Cloud services</h3>
 <p>
     <a href="#"><img alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>          
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"></a>  
     <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a> 
     <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>             
-<br>
+</p>
 
 ------
 *[Send me a message](mailto:shivam@shivampatels.com).*
