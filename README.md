@@ -2,11 +2,13 @@
 
 <h2>Welcome to my page! 👋, This is <a href="https://shivampatels.com">Shivam</a></h2>
 
-Tech stacks I am using mostly are
-- Frontend : React.js, Angular, Vue
-- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C
-- Backend: Node, Java, PHP, Python, .NET, Ruby
-- CMS: Shopify, WordPress
+<h3>Tech stacks I am using mostly are</h3>
+<ul>
+  <li>Frontend : React.js, Angular, Vue</li>
+  <li>Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C</li>
+  <li>Backend: Node, Java, PHP, Python, .NET, Ruby</li>
+  <li>Specific: Blockchain, Machine Learning</li>
+</ul>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
