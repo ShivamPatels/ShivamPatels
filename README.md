@@ -10,7 +10,7 @@
   <li>Specific: Blockchain, Machine Learning</li>
 </ul>
 
-<h2>🚀 More About Me:</h2>
+<h2>🚀 &nbsp; More About Me:</h2>
 <ul>
   <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/shivampatels?tab=repositories" target="_blank">[Github]</a></li>
   <li>🎨 &nbsp; Designs that I made <a href="https://www.behance.net/shivampatels" target="_blank">[Behance]</a>👉</li>
@@ -18,7 +18,7 @@
 </ul>
 <br />
 
-<h2>🏆 Github Profile Trophy</h2>
+<h2>🏆 &nbsp; Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ShivamPatels&column=8&theme=onedark"/>
 
 <p align="center">
@@ -34,8 +34,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
-<h2>🔨 Languages and Tools</h2>
-<h3>👨‍💻 Programming and markup languages</h3>
+<h2>🔨 &nbsp; Languages and Tools</h2>
+<h3>👨‍💻 &nbsp; Programming and markup languages</h3>
 <p>
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -50,7 +50,7 @@
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amedzomethod+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
-<h3>🧰 Frameworks and libraries</h3>
+<h3>🧰 &nbsp; Frameworks and libraries</h3>
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -66,7 +66,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
-<h3>🗄️ Databases and cloud hosting</h3>
+<h3>🗄️ &nbsp; Databases and cloud hosting</h3>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -78,7 +78,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
-<h3>👨‍ Dev Tools</h3>
+<h3>👨‍ &nbsp; Dev Tools</h3>
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -86,7 +86,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 </p>
-<h3>☁ Cloud services</h3>
+<h3>☁ &nbsp; Cloud services</h3>
 <p>
     <a href="#"><img alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>          
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"></a>  
@@ -95,4 +95,4 @@
 </p>
 
 ------
-*[Send me a message](mailto:shivam@shivampatels.com).*
+*[Send me a message](mailto:shivam@shivampatels.com)*
